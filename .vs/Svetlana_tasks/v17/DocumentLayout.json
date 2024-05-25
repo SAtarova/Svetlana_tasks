@@ -6,6 +6,7 @@
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< HEAD
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -18,6 +19,9 @@
           ]
         }
       ]
+=======
+      "DocumentGroups": []
+>>>>>>> a5f25f1a0409d55fcff2df5da1d83251840be24a
     }
   ]
 }

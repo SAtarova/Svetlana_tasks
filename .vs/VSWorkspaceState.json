@@ -1,9 +1,15 @@
 {
   "ExpandedNodes": [
+<<<<<<< HEAD
     "",
     "\\Jokes",
     "\\Jokes\\jokes_react",
     "\\Jokes\\jokes_react\\v1"
   ],
+=======
+    ""
+  ],
+  "SelectedNode": "\\D:\\GIT\\Svetlana_tasks",
+>>>>>>> a5f25f1a0409d55fcff2df5da1d83251840be24a
   "PreviewInSolutionExplorer": false
 }
